@@ -1,6 +1,9 @@
 #define _USE_MATH_DEFINES
 
 #include <fcntl.h>
+#include <stdio.h>
+#include <math.h>
+#include <unistd.h>
 
 #include "cmplx.h"
 #include "io.h"
